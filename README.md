@@ -28,3 +28,6 @@ I love the color themes and warm tone of Horizon, but it was missing a couple th
 Recommended Font: Fira Code or Zed Plex Mono
 
 **Enjoy!** ❤️
+
+
+#### ⚠️This is a fork from Lance Wilhelms Horizon Extended Theme and adds a Neo no Italics Theme which i wanted. All credits go out to him aswell as my thanks for creating my favorite theme of all time ⚠️

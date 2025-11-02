@@ -231,8 +231,7 @@
       "name": "Tag attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#f09383",
-        "fontStyle": "italic"
+        "foreground": "#f09383"
       }
     },
     {
@@ -282,8 +281,7 @@
       "name": "Keywords",
       "scope": "keyword",
       "settings": {
-        "foreground": "#B877DBE6",
-        "fontStyle": "italic"
+        "foreground": "#B877DBE6"
       }
     },
     {
@@ -316,8 +314,7 @@
       "name": "Markup quotes",
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#fab795",
-        "fontStyle": "italic"
+        "foreground": "#fab795"
       }
     },
     {
@@ -342,8 +339,7 @@
       "name": "Markup italics",
       "scope": "markup.italic",
       "settings": {
-        "foreground": "#25afbc",
-        "fontStyle": "italic"
+        "foreground": "#25afbc"
       }
     },
     {
@@ -367,8 +363,7 @@
       "name": "Storage keywords",
       "scope": "storage",
       "settings": {
-        "foreground": "#b877db",
-        "fontStyle": "italic"
+        "foreground": "#b877db"
       }
     },
     {
@@ -440,16 +435,13 @@
         "variable.language"
       ],
       "settings": {
-        "foreground": "#fac29a",
-        "fontStyle": "italic"
+        "foreground": "#fac29a"
       }
     },
     {
       "name": "Parameters",
       "scope": "variable.parameter",
-      "settings": {
-        "fontStyle": "italic"
-      }
+      "settings": {}
     },
     {
       "name": "Embedded template punctuation",

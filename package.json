@@ -2,19 +2,17 @@
     "name": "horizon-extended",
     "displayName": "Horizon Extended Theme",
     "description": "A dark theme based on the Horizon theme. This provides some much need additions included semantic highlighting.",
-    "version": "1.1.1",
-    "publisher": "lancewilhelm",
+    "version": "1.2.0",
+    "publisher": "possum-enjoyer",
     "engines": {
         "vscode": "^1.55.0"
     },
     "icon": "logo.png",
     "author": {
-        "name": "Lance Wilhelm",
-        "email": "lance.wilhelm@gmail.com",
-        "url": "https://lancewilhelm.com"
+        "name": "Possum Enjoyer"
     },
     "repository": {
-        "url": "https://github.com/lancewilhelm/horizon-extended",
+        "url": "https://github.com/possum-enjoyer/horizon-extended",
         "type": "git"
     },
     "categories": [
@@ -35,6 +33,11 @@
                 "label": "Horizon Extended - Neo",
                 "uiTheme": "vs-dark",
                 "path": "./themes/neo.json"
+            },
+            {
+                "label": "Horizon Extended - Neo No Italics",
+                "uiTheme": "vs-dark",
+                "path": "./themes/neo_no_italics.json"
             },
             {
                 "label": "Horizon Extended - Light Neo",
